@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: red;
+    background-color: black;
     transition: background-color 0.3s ease;
 }
 
@@ -21,13 +21,13 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color: #007bff;
+    background-color: #121212;
     color: white;
     transition: background-color 0.3s ease;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #121212;
 }
 
 h1 {
