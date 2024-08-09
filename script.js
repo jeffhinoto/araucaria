@@ -18,7 +18,7 @@ function startTimer(duration) {
 
         if (timeRemaining <= 0) {
             clearInterval(timerInterval);
-            document.body.style.backgroundColor = "red";
+            document.body.style.backgroundColor = "black";
             document.getElementById("timer-label").style.display = "none";
         }
     }, 1000);
